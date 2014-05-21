@@ -1,0 +1,19 @@
+{
+    "arduino_folder": "/Applications/Arduino.app", 
+    "baudrate": 8, 
+    "board": 1, 
+    "board_option": {
+        "2.1": [
+            0
+        ]
+    }, 
+    "display_mode": 0, 
+    "extra_flag": "-std=gnu99", 
+    "full_compilation": true, 
+    "platform": 2, 
+    "platform_name": "Arduino AVR Boards", 
+    "programmer": {
+        "2": 2
+    }, 
+    "serial_port": 0
+}
